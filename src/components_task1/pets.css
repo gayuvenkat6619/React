@@ -1,0 +1,18 @@
+.pet-food{
+    background-color: lightseagreen;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.pets-list{
+    background-color: lightcoral;
+    text-align:left;
+    margin: 10px;
+    padding: 10px;
+}
+.my-pet{
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+    padding: 10px;
+    text-align: right;
+}
